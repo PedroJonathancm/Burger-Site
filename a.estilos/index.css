@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* Variaveis */
+:root{
+    /*Paleta de cores principal*/
+    --background-black: #040404 ; 
+
+
+}
+
+body{
+    background-color: var(--background-black);
+
+}
